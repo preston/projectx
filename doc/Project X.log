@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live/MacPorts 2009_6) (format=pdflatex 2010.8.16)  16 SEP 2010 13:21
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live/MacPorts 2009_6) (format=pdflatex 2010.8.16)  16 SEP 2010 13:27
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -90,7 +90,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
  [2]
-Overfull \hbox (1.43568pt too wide) in paragraph at lines 92--93
+Overfull \hbox (1.43568pt too wide) in paragraph at lines 105--106
 []\OT1/cmr/m/n/12 Any/All user, disk, net-work etc. I/O must be ``solid":
  []
 
@@ -102,7 +102,7 @@ Here is how much of TeX's memory you used:
  3640 multiletter control sequences out of 15000+200000
  9507 words of font info for 33 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 31i,14n,43p,490b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,14n,43p,492b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
 </opt/loc
 al/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/loc
 al/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/loca
@@ -110,7 +110,7 @@ l/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/local
 /share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></opt/local
 /share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/local
 /share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Project X.pdf" (7 pages, 100927 bytes).
+Output written on "Project X.pdf" (7 pages, 101078 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

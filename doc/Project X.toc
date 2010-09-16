@@ -6,7 +6,7 @@
 \contentsline {subsection}{\numberline {3.1}Define the problem.}{3}
 \contentsline {subsection}{\numberline {3.2}Demonstrate your knowledge.}{3}
 \contentsline {subsection}{\numberline {3.3}Project summary.}{4}
-\contentsline {subsection}{\numberline {3.4}Target user(s).}{4}
+\contentsline {subsection}{\numberline {3.4}Target user(s).}{5}
 \contentsline {subsection}{\numberline {3.5}Milestones.}{5}
 \contentsline {section}{\numberline {4}Define success.}{6}
 \contentsline {subsection}{\numberline {4.1}Grading breakdown.}{6}
