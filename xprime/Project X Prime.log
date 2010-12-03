@@ -1,0 +1,119 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/MacPorts 2010_0) (format=pdflatex 2010.11.23)  2 DEC 2010 19:15
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Project X Prime.ltx"
+(./Project X Prime.ltx
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/opt/local/share/texmf-texlive-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/opt/local/share/texmf-texlive-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 1994/06/25 v0.1b LaTeX2e package for refs to last page number
+ (JPG)
+)
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 10.
+
+(./Project X Prime.aux)
+\openout1 = `"Project X Prime.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+ (./Project X Prime.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `"Project X Prime.toc"'.
+
+ [1
+
+{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 61.
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+ [2]
+Overfull \hbox (12.32875pt too wide) in paragraph at lines 70--71
+[]\OT1/cmr/m/n/10.95 Submission, demo and pre-sen-ta-tion. Your team--
+ []
+
+[3] AED: lastpage setting LastPage [4] (./Project X Prime.aux) ) 
+Here is how much of TeX's memory you used:
+ 402 strings out of 495074
+ 4757 string characters out of 3182081
+ 51959 words of memory out of 3000000
+ 3637 multiletter control sequences out of 15000+200000
+ 9510 words of font info for 33 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 31i,13n,43p,465b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
+</opt/local/sha
+re/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/local/sha
+re/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/local/sha
+re/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/local/shar
+e/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/local/share
+/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/local/share/
+texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></opt/local/share/
+texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/local/share/
+texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Project X Prime.pdf" (4 pages, 111456 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
